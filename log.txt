@@ -1,7 +1,7 @@
-ed9bf4a (HEAD -> edit, origin/edit) Task 2.3
+bf6d6a6 (HEAD -> edit) Task 2.4
+ed9bf4a (origin/edit) Task 2.3
 5a2e8fb Task 2.2 with log
 4e8ceb4 Task 2.2
 827e8c7 Task 2.1 with log
 4aeeb99 Task 2.1 with log
 55bb4fa Task 2.1
-3f93a95 Task 1.2
