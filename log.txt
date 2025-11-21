@@ -5,3 +5,5 @@ ed9bf4a (origin/edit) Task 2.3
 827e8c7 Task 2.1 with log
 4aeeb99 Task 2.1 with log
 55bb4fa Task 2.1
+9sdk203 Task 1.2
+90iu3ns Task 1.1
