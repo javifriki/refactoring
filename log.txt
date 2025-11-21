@@ -1,7 +1,7 @@
-b1fde38 (HEAD -> edit, origin/edit) Task 1.1
-2b4f164 (origin/main, origin/HEAD, main) fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
-ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
-b545fe2 clarifying extracted method names in README.md
-a0124c9 fixing starter file
-c8d9d38 adding starter files
-cbe4517 first commit
+bf6d6a6 (HEAD -> edit) Task 2.4
+ed9bf4a (origin/edit) Task 2.3
+5a2e8fb Task 2.2 with log
+4e8ceb4 Task 2.2
+827e8c7 Task 2.1 with log
+4aeeb99 Task 2.1 with log
+55bb4fa Task 2.1
